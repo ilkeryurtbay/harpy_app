@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "355208938257",
+    "project_id": "harpyapp-29110",
+    "storage_bucket": "harpyapp-29110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355208938257:android:8b9b8efc78acd4764482b0",
+        "android_client_info": {
+          "package_name": "com.example.harpyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355208938257-ht48k5tvrkcf2o2j67dlgcvp7phrgnk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD01_sTCsMO_j3r5DQ8rC4w2jw7YB9sNAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355208938257-ht48k5tvrkcf2o2j67dlgcvp7phrgnk7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355208938257-s935a9qiq2clfacvaorf093ighl38sst.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ilkeryurtbay.eticaretapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355208938257:android:abeec821d151c2bf4482b0",
+        "android_client_info": {
+          "package_name": "com.ilkeryurtbay.eticaretapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355208938257-ht48k5tvrkcf2o2j67dlgcvp7phrgnk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD01_sTCsMO_j3r5DQ8rC4w2jw7YB9sNAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355208938257-ht48k5tvrkcf2o2j67dlgcvp7phrgnk7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355208938257-s935a9qiq2clfacvaorf093ighl38sst.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ilkeryurtbay.eticaretapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>355208938257-3ioouvaj341chgkf8n114hc4nqiiqj50.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.355208938257-3ioouvaj341chgkf8n114hc4nqiiqj50</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBn0I0F4ywyozxuYprqV_O12H0j8_tbkUY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>355208938257</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.harpyapp</string>
+	<key>PROJECT_ID</key>
+	<string>harpyapp-29110</string>
+	<key>STORAGE_BUCKET</key>
+	<string>harpyapp-29110.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:355208938257:ios:bd278322528cfe004482b0</string>
+</dict>
+</plist>
